@@ -70,7 +70,7 @@ Banking System
 Enter your choice: 1
 Enter Customer Details
 Customer Id: 1
-Name: Aniket
+Name: Sanket
 Address: Pune
 Contact No.: 78686788992
 ```
