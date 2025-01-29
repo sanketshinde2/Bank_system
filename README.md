@@ -24,8 +24,8 @@ The system allows users to:
 - **Menu-Driven Interface**: Easy-to-use CLI for managing banking operations.
 
 ## 🏗️ Group Members
-- **[Vaishnavi Shitole.]**  
-- **[Aditi Chand]**  
+- **Vaishnavi Shitole.**  
+- **Aditi Chand.**  
  
 
 ## 🔧 Setup & Installation
