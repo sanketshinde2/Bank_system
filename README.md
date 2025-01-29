@@ -34,7 +34,7 @@ The system allows users to:
 - Install [Git](https://git-scm.com/downloads)
 - Clone this repository:
   ```sh
-  git clone https://github.com/your-username/BankingSystem.git
+  git clone [https://github.com/your-username/BankingSystem.git](https://github.com/sanketshinde2/Bank_system.git)
   ```
 - Compile and run the program:
   ```sh
