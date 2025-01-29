@@ -72,12 +72,10 @@ Enter Customer Details
 Customer Id: 1
 Name: Aniket
 Address: Pune
-Contact No.: 7868678899
+Contact No.: 78686788992
 ```
 
-## 🤝 Contributing
-Feel free to fork this repository, make changes, and submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
+
 
